@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Charusat Portal</title>
+    <link rel="stylesheet" href="./Style/index.css">
+    
+</head>
+<body>
+
+       
+    </div>
+    
+    <h1>Charusat </h1>
+    <div class="main">
+        <h2>Info!</h2>
+        <p>This is Charusat Students Portal.</p>
+        <p>Access your academic information, manage your profile, and stay updated with the latest campus news and announcements.</p>
+    </div>
+    <div class="head">
+        <strong style="font-size: 50px;">
+            Welcome To Charusat Portal!
+        </strong>
+   
+    </div>
+    
+<div class="link">
+    <a href="login.html">Login</a>
+    <a href="about.html">About</a>
+    <a href="admin.html">Admin</a>
+    <a href="register.html">Register</a>
+    <a href="Profile.html">Profile</a> 
+    
+</div>
+</body>
+</html>
